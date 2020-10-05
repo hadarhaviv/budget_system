@@ -1,0 +1,6 @@
+/.idea
+/ruby
+/.gradle
+records.json
+user.json
+gemfile.lock
